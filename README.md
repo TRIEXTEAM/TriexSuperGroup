@@ -1,34 +1,23 @@
-__A Telegram Bot Based On DBTeam__
-
-THIS GIT IS FREE BUG.
-
-[Dont Forgot Change Your ID TO Bot Folder]
-
-_________________________________________________________________________________
-{This is Nod Orginal Git for NOD32 BOT Only We Debug DBTeam Git.}
-_________________________________________________________________________________
-For install  
-```bash
-sudo apt-get update
-
-sudo apt-get upgrade
-
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
-
-cd $HOME
-
-git clone https://github.com/BH-YAGHI/SUPER-NOD32.git
-
-cd SUPER-NOD32
-
-./launch.sh install
-
-./launch.sh
-```
+[Triex] (telegram.me/triex) The New And Best Telegram Bot 🔱
 _________________________________________________________________________________
 
+For Send Your Feedback ❕
+_________________________________________________________________________________
+* **A powerful Anti spam with custom sensitivity For each group**
+* **Multiple Realms(admin groups)**
+* **recalcitrant to any kind of spamming(Xy bots,name|photo changers and ...)**
+* **Global ban**
+* **Broadcast to all groups**
+* **Group link**
+* **Kick,ban and unban by reply**
+* **Groups,ban and global bans list**
+* **Logging anything that happens in group !**
+* **Invite by username**
+* **Group administration in bots private**
+* **Only mods,owner and admin can add bots**
+* **Arabic lock**
+* **And ....
 
-channel : https://telegram.me/Nod32team
+Channel 
 
-
-developer : https://telegram.me/Behroozyaghi
+[@TriexTeam] (telegram.me/treixteam)
