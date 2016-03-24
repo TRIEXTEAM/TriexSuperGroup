@@ -239,7 +239,8 @@ function create_config( )
       "persian_lang",
       "settings",
       "spam",
-      "version"
+      "version",
+      "texttovoice",
       --"arabic"
      },
     sudo_users = {192695150,105831687,107746299},--ایدی خود را در کادر روبرو بجای 158990680 بگذارید
